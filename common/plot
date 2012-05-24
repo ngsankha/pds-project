@@ -1,0 +1,2 @@
+plot "common/records/abc.txt" with line
+pause -1 "Press enter to continue..."
